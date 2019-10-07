@@ -1,10 +1,6 @@
-# A Dummy's Guide to Redux and Thunk in React
+# Little redux
 
-The demo app for my blog post. It is not an example of writing best-practice markup or React JavaScript, it's just the bare minimum to demonstrate how to use Redux and Redux Thunk.
-
-## Prerequisites
-
-[Node.js](http://nodejs.org/) >= v4 must be installed.
+The redux demo
 
 ## Installation
 
